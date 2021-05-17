@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website contents
 
-Lorem ipsum dorem...
+1. index.txt
 
-Bla bla
